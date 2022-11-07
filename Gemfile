@@ -42,6 +42,7 @@ group :test do
   gem "database_cleaner"
   gem "rspec"
   gem "rack-test", "~> 1.1"
+  gem "puma"
 end
 
 
